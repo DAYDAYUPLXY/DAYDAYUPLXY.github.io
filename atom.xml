@@ -6,7 +6,7 @@
   <link href="/DAYDAYUPLXY.github.io/atom.xml" rel="self"/>
   
   <link href="https://lixiaoyu.live/"/>
-  <updated>2018-11-17T15:09:42.124Z</updated>
+  <updated>2018-11-19T11:51:29.662Z</updated>
   <id>https://lixiaoyu.live/</id>
   
   <author>
@@ -17,21 +17,31 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>如何用AWS搭建ssr</title>
+    <link href="https://lixiaoyu.live/2018/11/19/%E5%A6%82%E4%BD%95%E7%94%A8AWS%E6%90%AD%E5%BB%BAssr/"/>
+    <id>https://lixiaoyu.live/2018/11/19/如何用AWS搭建ssr/</id>
+    <published>2018-11-19T11:51:29.000Z</published>
+    <updated>2018-11-19T11:51:29.662Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
     <title>我的第一篇博客</title>
     <link href="https://lixiaoyu.live/2018/11/17/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
     <id>https://lixiaoyu.live/2018/11/17/我的第一篇博客/</id>
     <published>2018-11-17T14:58:24.000Z</published>
-    <updated>2018-11-17T15:09:42.124Z</updated>
+    <updated>2018-11-17T16:20:27.539Z</updated>
     
-    <content type="html"><![CDATA[<p>历经千辛万苦，我人生中的第一个博客终于出世了。也许他还有些简陋，但日后我会慢慢地去完善。<br>今后一些所想所思我会放在上面，希望在博客不断丰富地过程中，我自己也能不断成长。<br>加油ヾ(◍°∇°◍)ﾉﾞ</p>]]></content>
+    <content type="html"><![CDATA[<p> &emsp;&emsp;历经千辛万苦，我人生中的第一个博客终于出世了。也许他还有些简陋，但日后我会慢慢地去完善。<br> &emsp;&emsp;今后一些所想所思我会放在上面，希望在博客不断丰富地过程中，我自己也能不断成长。<br>&emsp;&emsp;加油ヾ(◍°∇°◍)ﾉﾞ<br><a id="more"></a></p>]]></content>
     
     <summary type="html">
     
-      
-      
-        &lt;p&gt;历经千辛万苦，我人生中的第一个博客终于出世了。也许他还有些简陋，但日后我会慢慢地去完善。&lt;br&gt;今后一些所想所思我会放在上面，希望在博客不断丰富地过程中，我自己也能不断成长。&lt;br&gt;加油ヾ(◍°∇°◍)ﾉﾞ&lt;/p&gt;
-
-      
+      &lt;p&gt; &amp;emsp;&amp;emsp;历经千辛万苦，我人生中的第一个博客终于出世了。也许他还有些简陋，但日后我会慢慢地去完善。&lt;br&gt; &amp;emsp;&amp;emsp;今后一些所想所思我会放在上面，希望在博客不断丰富地过程中，我自己也能不断成长。&lt;br&gt;&amp;emsp;&amp;emsp;加油ヾ(◍°∇°◍)ﾉﾞ&lt;br&gt;
     
     </summary>
     
